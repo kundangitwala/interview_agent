@@ -29,7 +29,7 @@ function Home() {
   const [showAuth, setShowAuth] = useState(false);
   const navigate = useNavigate()
   return (
-    <div className='min-h-screen bg-[#F8FAFC] flex flex-col'>
+    <div className='min-h-screen #F8FAFC flex flex-col'>
       <Navbar />
 
       <div className='flex-1 px-6 py-20'>

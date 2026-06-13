@@ -31,7 +31,7 @@ function Navbar() {
         }
     }
   return (
-    <div className='bg-[#f3f3f3] flex justify-center px-4 pt-6'>
+    <div className='#F8FAFC flex justify-center px-4 pt-6'>
         <motion.div 
         initial={{opacity:0 , y:-40}}
         animate={{opacity:1 , y:0}}
